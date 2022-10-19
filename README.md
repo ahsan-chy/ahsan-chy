@@ -3,7 +3,8 @@ Hi,👋, I’m Ahsan-chy FullStack Developer.
 I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages, I have put great contribution in different projects.
 
 
-Skills Acquired: JavaScript - Reactjs - React Native - Nodejs - MongoDB - Mysql - Firebase - HTML/CSS - BootStrap
+### Skills Acquired: 
+JavaScript - Reactjs - React Native - Nodejs - MongoDB - Mysql - Firebase - HTML/CSS - BootStrap
 
 - 🔭 I’m currently working on different Coding Challenges
 - 🌱 I’m currently learning Backend Development
@@ -12,7 +13,7 @@ Skills Acquired: JavaScript - Reactjs - React Native - Nodejs - MongoDB - Mysql 
 
 
 
-🛠  Tech Stack
+### 🛠  Tech Stack
 
 - ![HTML](https://user-images.githubusercontent.com/85479513/196625195-bef48c94-86c0-47be-b311-32317834090e.svg)
 ![CSS](https://user-images.githubusercontent.com/85479513/196625273-e8a03e8a-5135-4696-b1fb-c8bc53cf6ee9.svg)
