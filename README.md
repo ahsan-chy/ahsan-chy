@@ -1,15 +1,21 @@
 Hi,👋, I’m Ahsan-chy FullStack Developer.
 
-I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages, I have put great contribution in different projects.
 
-
-### Skills Acquired: 
-JavaScript - Reactjs - React Native - Nodejs - MongoDB - Mysql - Firebase - HTML/CSS - BootStrap
-
-- 🔭 I’m currently working on different Coding Challenges
+#### I love building the real world products.👨‍💻
+- ✨ I’m currently working on different Coding Challenges
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: ahsan.chy.iqbal@gmail.com
+- 🚀 How to reach me: ahsan.chy.iqbal@gmail.com
+
+
+I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++, I have put great contribution in different projects.
+
+### Connect with me:
+<p align="center">
+ <a href="https://ahsaniqbaldev.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/konnectahsan" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/ahsan-iqball/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/konnectwithahsan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center" /></a></p>
 
 
 
@@ -81,7 +87,6 @@ Backend
     ![](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
     ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
     ![mongoose](https://user-images.githubusercontent.com/85479513/227965684-d9218a35-3ae2-48d1-a523-7f836e58d129.png)
-
     ![]()
 
 Web Hosting
@@ -105,21 +110,18 @@ Version Control
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-![](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![]()
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 
-### Thanks for Visiting my GitHub Profile!
 
-```javascript
-if (codeWorking){
-        while (codeQuality < perfectCode){
-            codeQuality++;
-        }
-    }
-// - Ahsan Iqbal
-```
 
+
+
+
+## Thanks for Visiting my GitHub Profile!
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=ahsan-chy&show_icons=true&locale=en&layout=compact)
 
 
 [![Profile View](https://visitcount.itsvg.in/api?id=ahsan-chy&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
